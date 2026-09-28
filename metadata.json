@@ -1,0 +1,6 @@
+{
+  "name": "Né Cục Cứt - Poop Dodger Arcade",
+  "description": "Trò chơi né cục cứt hoạt hình vui nhộn phong cách cartoon! Điều khiển nhân vật né 💩 rơi tự do, lên cấp mở khóa 30 nhân vật và nhiều giao diện độc đáo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
